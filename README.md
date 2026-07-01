@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **MERLOS1004/MERLOS1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
